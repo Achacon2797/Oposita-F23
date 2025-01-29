@@ -1,0 +1,42 @@
+plugins {
+    id "com.android.application"  // NO incluir 'version "8.2.1"' aquí
+    id "kotlin-android"
+    id 'com.google.gms.google-services'
+    id "dev.flutter.flutter-gradle-plugin"
+}
+android {
+    namespace = "com.example.appoposiciones"  // Cambia esto a tu propio namespace
+
+    compileSdk = flutter.compileSdkVersion  // Delega la configuración a Flutter
+    buildToolsVersion "34.0.0"  // Debe coincidir con el SDK instalado en tu sistema
+    ndkVersion = flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_17
+    }
+
+    defaultConfig {
+        applicationId = "com.example.appoposiciones"  // Cambia esto a tu propio ID de aplicación
+        minSdkVersion 23  // La mínima versión del SDK que tu aplicación soporta
+        targetSdkVersion 34  // Actualiza a la última versión del SDK disponible
+        versionCode flutter.versionCode.toInteger()
+        versionName flutter.versionName
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.debug
+            shrinkResources false
+            minifyEnabled false
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}

@@ -1,0 +1,48 @@
+[
+    {
+      "preguntaId": 1,
+      "correcta": 3,
+      "respuestas": [
+        { "id": 1, "respuesta": "A) Todos los vehículos que circulen por las vías públicas" },
+        { "id": 2, "respuesta": "B) Todos los vehículos de motor excepto los ciclomotores."},
+        { "id": 3, "respuesta": "C) Todos los vehículos de motor y los ciclomotores." }
+      ]
+    },
+    {
+      "preguntaId": 2,
+      "correcta": 3,
+      "respuestas": [
+        { "id": 1, "respuesta": "A) sólo si ya ha entrado en la intersección."},
+        { "id": 2, "respuesta": "B) sólo si ve al agente de frente y siempre que pueda hacerlo en condiciones de seguridad."},
+        { "id": 3, "respuesta": "C) siempre que pueda hacerlo en condiciones de seguridad" }
+      ]
+    },
+    {
+      "preguntaId": 3,
+      "correcta": 2,
+      "respuestas": [
+        { "id": 1, "respuesta": "A) Con una relación de marchas cortas."},
+        { "id": 2, "respuesta": "B) Con una relación de marchas lo más alta posible."},
+        { "id": 3, "respuesta": "C) Lentamente y reteniendo el vehículo." }
+      ]
+    },
+    {
+        "preguntaId": 4,
+        "correcta": 3,
+        "respuestas": [
+          { "id": 1, "respuesta": "A) No."},
+          { "id": 2, "respuesta": "B) Sí, pero únicamente fuera de poblado."},
+          { "id": 3, "respuesta": "C) Sí, tanto en poblado como fuera de poblado."}
+        ]
+      },
+      {
+        "preguntaId": 5,
+        "correcta": 1,
+        "respuestas": [
+          { "id": 1, "respuesta": "A) A través de un sensor que detecta el ángulo de inclinación del vehículo e impide que se vaya hacia atrás al levantar el pie de freno."},
+          { "id": 2, "respuesta": "B) Acelerará rápidamente el motor para evitar que el vehículo se vaya hacia atrás al levantar el pie de freno."},
+          { "id": 3, "respuesta": "C) Activará el freno de estacionamiento de manera automática y no lo desactivará hasta que el conductor presione el acelerador, evitando así que el vehículo se vaya hacia atrás." }
+        ]
+      }
+  ]
+  

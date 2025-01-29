@@ -1,0 +1,179 @@
+{
+  "temas": [
+    {
+      "tema": "1",
+      "titulo": "Derecho Penal - Conceptos Básicos",
+      "preguntas": [
+        {
+          "N_pregunta": "1",
+          "pregunta": "¿Qué es el Derecho Penal y cuál es su objetivo principal?",
+          "respuesta": "El Derecho Penal es una rama del Derecho público que regula el poder punitivo del Estado, estableciendo los delitos y las sanciones correspondientes. Su objetivo principal es proteger los bienes jurídicos fundamentales y mantener el orden social."
+        },
+        {
+          "N_pregunta": "2",
+          "pregunta": "¿Cuál es la diferencia entre delito y falta en el ámbito penal?",
+          "respuesta": "Un delito es una conducta grave que infringe la ley y pone en peligro bienes jurídicos protegidos, mientras que una falta es una infracción menor. Los delitos suelen conllevar penas más severas que las faltas."
+        },
+        {
+          "N_pregunta": "3",
+          "pregunta": "Explica la presunción de inocencia en el Derecho Penal.",
+          "respuesta": "La presunción de inocencia es un principio fundamental que establece que toda persona acusada de un delito se presume inocente hasta que se demuestre su culpabilidad en un juicio justo."
+        }
+      ]
+    },
+    {
+      "tema": "2",
+      "titulo": "Derechos y Libertades Fundamentales - Constitución Española",
+      "preguntas": [
+        {
+          "N_pregunta": "1",
+          "pregunta": "Describe la libertad de expresión según la Constitución Española.",
+          "respuesta": "La libertad de expresión es el derecho a difundir libremente pensamientos, ideas y opiniones mediante cualquier medio, sin censura previa. Está recogida en el artículo 20 de la Constitución Española."
+        },
+        {
+          "N_pregunta": "2",
+          "pregunta": "¿Cuál es el derecho a la igualdad ante la ley?",
+          "respuesta": "El derecho a la igualdad establece que todos los ciudadanos son iguales ante la ley y no podrán ser discriminados por razón de nacimiento, raza, sexo, religión, opinión u otra condición personal o social, según el artículo 14 de la Constitución Española."
+        },
+        {
+          "N_pregunta": "3",
+          "pregunta": "¿Qué garantiza el derecho a la tutela judicial efectiva?",
+          "respuesta": "El derecho a la tutela judicial efectiva garantiza que toda persona puede acudir a los tribunales para la defensa de sus derechos e intereses legítimos y recibir una resolución fundada en Derecho."
+        }
+      ]
+    },
+    {
+      "tema": "3",
+      "titulo": "Parte General del Derecho Penal",
+      "preguntas": [
+        {
+          "N_pregunta": "1",
+          "pregunta": "Define el concepto de imputabilidad en Derecho Penal.",
+          "respuesta": "La imputabilidad es la capacidad de una persona de comprender la ilicitud de su acto y de actuar conforme a esa comprensión. Es un requisito para que una persona sea responsable penalmente."
+        },
+        {
+          "N_pregunta": "2",
+          "pregunta": "¿Qué es la responsabilidad penal y cómo se determina?",
+          "respuesta": "La responsabilidad penal es la obligación de responder ante la ley por la comisión de un delito. Se determina a través de un proceso judicial que evalúa la culpabilidad del acusado."
+        },
+        {
+          "N_pregunta": "3",
+          "pregunta": "Explica el concepto de dolo y su relevancia en el Derecho Penal.",
+          "respuesta": "El dolo es la intención de cometer un acto delictivo, es decir, la voluntad consciente de realizar una acción que se sabe prohibida por la ley. Es un elemento clave para determinar la culpabilidad en muchos delitos."
+        }
+      ]
+    },
+    {
+      "tema": "4",
+      "titulo": "Delitos Contra la Vida",
+      "preguntas": [
+        {
+          "N_pregunta": "1",
+          "pregunta": "¿Qué es el homicidio y qué tipos existen?",
+          "respuesta": "El homicidio es la acción de causar la muerte a otra persona. Existen diferentes tipos, como el homicidio doloso, culposo y el asesinato, que depende de la premeditación y otros agravantes."
+        },
+        {
+          "N_pregunta": "2",
+          "pregunta": "Define el concepto de asesinato y sus agravantes.",
+          "respuesta": "El asesinato es un tipo de homicidio agravado caracterizado por la concurrencia de ciertos factores, como la alevosía, la premeditación o el uso de medios especialmente peligrosos para la víctima."
+        }
+      ]
+    },
+    {
+      "tema": "5",
+      "titulo": "Derechos Constitucionales y sus Garantías",
+      "preguntas": [
+        {
+          "N_pregunta": "1",
+          "pregunta": "Explica el derecho a la inviolabilidad del domicilio.",
+          "respuesta": "El derecho a la inviolabilidad del domicilio garantiza que nadie puede entrar en el hogar de una persona sin su consentimiento o sin una orden judicial, excepto en casos de flagrante delito."
+        },
+        {
+          "N_pregunta": "2",
+          "pregunta": "¿Qué es el derecho a la libertad de culto?",
+          "respuesta": "Es el derecho que permite a las personas profesar libremente cualquier religión o creencia, así como el derecho a no profesar ninguna. Está protegido por la Constitución Española."
+        }
+      ]
+    },
+    {
+      "tema": "6",
+      "titulo": "Delitos Contra la Libertad",
+      "preguntas": [
+        {
+          "N_pregunta": "1",
+          "pregunta": "Define el delito de amenazas y sus características.",
+          "respuesta": "El delito de amenazas consiste en intimidar a alguien con causarle un mal en el futuro, con el objetivo de crear un estado de temor o modificar su conducta."
+        },
+        {
+          "N_pregunta": "2",
+          "pregunta": "¿En qué consiste el delito de coacciones?",
+          "respuesta": "Las coacciones consisten en impedir a alguien, mediante violencia o intimidación, hacer algo que la ley no prohíbe o en obligarlo a hacer lo que no quiere."
+        }
+      ]
+    },
+    {
+      "tema": "7",
+      "titulo": "Derechos de los Ciudadanos en Materia Penal",
+      "preguntas": [
+        {
+          "N_pregunta": "1",
+          "pregunta": "Explica el derecho a la defensa y a un abogado.",
+          "respuesta": "El derecho a la defensa garantiza que cualquier persona acusada de un delito pueda defenderse de las acusaciones, contando con la asistencia de un abogado de su elección o uno de oficio si no puede costearlo."
+        },
+        {
+          "N_pregunta": "2",
+          "pregunta": "¿Qué es el principio de 'ne bis in idem'?",
+          "respuesta": "Es un principio que establece que nadie puede ser juzgado dos veces por el mismo hecho y garantiza que una vez se haya dictado sentencia firme, no puede reabrirse el caso por el mismo delito."
+        }
+      ]
+    },
+    {
+      "tema": "8",
+      "titulo": "Delitos Contra el Orden Público",
+      "preguntas": [
+        {
+          "N_pregunta": "1",
+          "pregunta": "Describe el delito de desórdenes públicos.",
+          "respuesta": "El delito de desórdenes públicos implica alterar gravemente el orden en un espacio público, de forma que se afecte la paz social y el normal desarrollo de actividades cotidianas."
+        },
+        {
+          "N_pregunta": "2",
+          "pregunta": "¿Qué es la apología del delito?",
+          "respuesta": "La apología del delito es una manifestación pública de apoyo o alabanza a un delito o a su autor, que puede interpretarse como incitación a cometerlo."
+        }
+      ]
+    },
+    {
+      "tema": "9",
+      "titulo": "La Justicia Constitucional",
+      "preguntas": [
+        {
+          "N_pregunta": "1",
+          "pregunta": "Explica el papel del Tribunal Constitucional en España.",
+          "respuesta": "El Tribunal Constitucional es el máximo órgano encargado de garantizar la constitucionalidad de las leyes y de proteger los derechos fundamentales y libertades públicas en España."
+        },
+        {
+          "N_pregunta": "2",
+          "pregunta": "¿Qué es el recurso de amparo?",
+          "respuesta": "El recurso de amparo permite a los ciudadanos acudir al Tribunal Constitucional cuando consideran que sus derechos fundamentales han sido vulnerados por actos de las autoridades públicas."
+        }
+      ]
+    },
+    {
+      "tema": "10",
+      "titulo": "Derecho Procesal Penal",
+      "preguntas": [
+        {
+          "N_pregunta": "1",
+          "pregunta": "¿Qué es el procedimiento penal y cuáles son sus etapas principales?",
+          "respuesta": "El procedimiento penal es el conjunto de actos destinados a la investigación y resolución de un delito. Sus etapas principales son la instrucción, el juicio oral y la fase de ejecución de la sentencia."
+        },
+        {
+          "N_pregunta": "2",
+          "pregunta": "¿Qué función tiene el Ministerio Fiscal en el proceso penal?",
+          "respuesta": "El Ministerio Fiscal es el órgano encargado de promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público en el proceso penal."
+        }
+      ]
+    }
+  ]
+}

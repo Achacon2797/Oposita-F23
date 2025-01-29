@@ -1,0 +1,334 @@
+{
+  "temas": [
+    {
+      "tema": "1",
+      "titulo": "Derecho Penal",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de los siguientes es un principio fundamental del Derecho Penal?",
+          "opciones": [
+            "A) Presunción de culpabilidad",
+            "B) Presunción de inocencia",
+            "C) Presunción de igualdad ante la ley"
+          ],
+          "respuesta_correcta": "B) Presunción de inocencia"
+        },
+        {
+          "pregunta": "¿Cuál es el objetivo principal de las penas en el Derecho Penal?",
+          "opciones": [
+            "A) Venganza",
+            "B) Prevención y reeducación",
+            "C) Expiación personal"
+          ],
+          "respuesta_correcta": "B) Prevención y reeducación"
+        },
+        {
+          "pregunta": "¿Qué delito comete alguien que sustrae un bien mueble ajeno sin el consentimiento del propietario?",
+          "opciones": [
+            "A) Estafa",
+            "B) Robo",
+            "C) Hurto"
+          ],
+          "respuesta_correcta": "C) Hurto"
+        },
+        {
+          "pregunta": "¿Qué acción constituye un agravante en el delito de homicidio?",
+          "opciones": [
+            "A) Actuar en defensa propia",
+            "B) Actuar con alevosía",
+            "C) Actuar sin intención de causar daño"
+          ],
+          "respuesta_correcta": "B) Actuar con alevosía"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes es un delito contra la integridad moral?",
+          "opciones": [
+            "A) Allanamiento de morada",
+            "B) Coacciones",
+            "C) Calumnia"
+          ],
+          "respuesta_correcta": "B) Coacciones"
+        }
+      ]
+    },
+    {
+      "tema": "2",
+      "titulo": "Constitución Española",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el artículo de la Constitución Española que garantiza la igualdad de todos los españoles ante la ley?",
+          "opciones": [
+            "A) Artículo 1",
+            "B) Artículo 14",
+            "C) Artículo 20"
+          ],
+          "respuesta_correcta": "B) Artículo 14"
+        },
+        {
+          "pregunta": "¿Qué reconoce el artículo 16 de la Constitución Española?",
+          "opciones": [
+            "A) El derecho a la propiedad privada",
+            "B) La libertad ideológica y religiosa",
+            "C) La libertad de expresión"
+          ],
+          "respuesta_correcta": "B) La libertad ideológica y religiosa"
+        },
+        {
+          "pregunta": "¿Cuál es la función del Tribunal Constitucional según la Constitución Española?",
+          "opciones": [
+            "A) Legislar nuevas leyes",
+            "B) Interpretar y garantizar la Constitución",
+            "C) Ejercer el poder ejecutivo"
+          ],
+          "respuesta_correcta": "B) Interpretar y garantizar la Constitución"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 1 de la Constitución Española?",
+          "opciones": [
+            "A) La unidad indivisible de la nación",
+            "B) España es un Estado social y democrático de Derecho",
+            "C) La oficialidad del castellano"
+          ],
+          "respuesta_correcta": "B) España es un Estado social y democrático de Derecho"
+        },
+        {
+          "pregunta": "¿Quién tiene el derecho de iniciativa legislativa según la Constitución Española?",
+          "opciones": [
+            "A) Solo el Presidente del Gobierno",
+            "B) Las Cortes Generales, el Gobierno y la ciudadanía en algunos casos",
+            "C) El Rey de España"
+          ],
+          "respuesta_correcta": "B) Las Cortes Generales, el Gobierno y la ciudadanía en algunos casos"
+        }
+      ]
+    },
+    {
+      "tema": "3",
+      "titulo": "Derecho Civil",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué significa el concepto de 'capacidad de obrar' en Derecho Civil?",
+          "opciones": [
+            "A) La capacidad de una persona para ejercer sus derechos",
+            "B) La capacidad de una persona para tomar decisiones morales",
+            "C) La capacidad de una persona para representar a otros"
+          ],
+          "respuesta_correcta": "A) La capacidad de una persona para ejercer sus derechos"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes no es un requisito esencial del contrato según el Código Civil?",
+          "opciones": [
+            "A) Objeto cierto",
+            "B) Consentimiento de las partes",
+            "C) Relación de parentesco"
+          ],
+          "respuesta_correcta": "C) Relación de parentesco"
+        },
+        {
+          "pregunta": "¿Qué diferencia existe entre propiedad y posesión?",
+          "opciones": [
+            "A) La posesión implica la tenencia material de la cosa",
+            "B) La propiedad siempre implica la posesión",
+            "C) No existe diferencia legal entre ambos conceptos"
+          ],
+          "respuesta_correcta": "A) La posesión implica la tenencia material de la cosa"
+        },
+        {
+          "pregunta": "¿Qué es un contrato de arrendamiento según el Derecho Civil?",
+          "opciones": [
+            "A) Un contrato en el que una parte cede la propiedad de un bien a otra",
+            "B) Un contrato por el cual una parte se obliga a ceder el uso y disfrute de un bien a cambio de un precio",
+            "C) Un acuerdo verbal entre dos partes sin formalización"
+          ],
+          "respuesta_correcta": "B) Un contrato por el cual una parte se obliga a ceder el uso y disfrute de un bien a cambio de un precio"
+        },
+        {
+          "pregunta": "¿Cuál es el plazo general de prescripción en Derecho Civil?",
+          "opciones": [
+            "A) 15 años",
+            "B) 20 años",
+            "C) 30 años"
+          ],
+          "respuesta_correcta": "A) 15 años"
+        }
+      ]
+    },
+    {
+      "tema": "4",
+      "titulo": "Derecho Administrativo",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál de las siguientes es una característica fundamental del acto administrativo?",
+          "opciones": [
+            "A) Es siempre revocable",
+            "B) Es emitido por un órgano público",
+            "C) Siempre requiere de aprobación judicial"
+          ],
+          "respuesta_correcta": "B) Es emitido por un órgano público"
+        },
+        {
+          "pregunta": "¿Qué principio garantiza que las actuaciones de la Administración deben ser objetivas y no discriminatorias?",
+          "opciones": [
+            "A) Principio de eficacia",
+            "B) Principio de igualdad",
+            "C) Principio de imparcialidad"
+          ],
+          "respuesta_correcta": "C) Principio de imparcialidad"
+        },
+        {
+          "pregunta": "¿Cuál de los siguientes no es un tipo de recurso administrativo?",
+          "opciones": [
+            "A) Recurso de alzada",
+            "B) Recurso de revisión",
+            "C) Recurso de apelación"
+          ],
+          "respuesta_correcta": "C) Recurso de apelación"
+        }
+      ]
+    },
+    {
+      "tema": "5",
+      "titulo": "Derecho Procesal",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la fase del proceso en la que se emiten las pruebas de ambas partes?",
+          "opciones": [
+            "A) Alegatos",
+            "B) Audiencia Previa",
+            "C) Juicio Oral"
+          ],
+          "respuesta_correcta": "C) Juicio Oral"
+        },
+        {
+          "pregunta": "¿Qué función cumple el juez en el proceso civil?",
+          "opciones": [
+            "A) Representar a las partes",
+            "B) Actuar como árbitro imparcial",
+            "C) Emitir pruebas"
+          ],
+          "respuesta_correcta": "B) Actuar como árbitro imparcial"
+        }
+      ]
+    },
+    {
+      "tema": "6",
+      "titulo": "Derecho Mercantil",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de sociedad requiere un capital mínimo de 3,000 euros para su constitución?",
+          "opciones": [
+            "A) Sociedad Anónima",
+            "B) Sociedad Limitada",
+            "C) Sociedad Colectiva"
+          ],
+          "respuesta_correcta": "B) Sociedad Limitada"
+        },
+        {
+          "pregunta": "¿Cuál es el principal objetivo del Derecho Mercantil?",
+          "opciones": [
+            "A) Regular las actividades comerciales",
+            "B) Proteger los derechos humanos",
+            "C) Velar por la justicia penal"
+          ],
+          "respuesta_correcta": "A) Regular las actividades comerciales"
+        }
+      ]
+    },
+    {
+      "tema": "7",
+      "titulo": "Derecho Internacional Público",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué organismo internacional se encarga de la paz y la seguridad mundial?",
+          "opciones": [
+            "A) La Unión Europea",
+            "B) La ONU",
+            "C) La OTAN"
+          ],
+          "respuesta_correcta": "B) La ONU"
+        },
+        {
+          "pregunta": "¿Qué principio garantiza la igualdad soberana de los Estados?",
+          "opciones": [
+            "A) No intervención",
+            "B) Derecho a la paz",
+            "C) Igualdad jurídica de los Estados"
+          ],
+          "respuesta_correcta": "C) Igualdad jurídica de los Estados"
+        }
+      ]
+    },
+    {
+      "tema": "8",
+      "titulo": "Derecho Internacional Privado",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué determina la competencia judicial en conflictos con elementos extranjeros?",
+          "opciones": [
+            "A) Derecho Administrativo",
+            "B) Derecho Internacional Público",
+            "C) Derecho Internacional Privado"
+          ],
+          "respuesta_correcta": "C) Derecho Internacional Privado"
+        },
+        {
+          "pregunta": "¿Qué regula el Derecho Internacional Privado?",
+          "opciones": [
+            "A) Conflictos entre naciones",
+            "B) Relaciones entre personas de distintas nacionalidades",
+            "C) Delitos en el extranjero"
+          ],
+          "respuesta_correcta": "B) Relaciones entre personas de distintas nacionalidades"
+        }
+      ]
+    },
+    {
+      "tema": "9",
+      "titulo": "Derechos Humanos",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué derecho protege el artículo 3 de la Declaración Universal de Derechos Humanos?",
+          "opciones": [
+            "A) Derecho a la vida",
+            "B) Derecho a la educación",
+            "C) Derecho a la vivienda"
+          ],
+          "respuesta_correcta": "A) Derecho a la vida"
+        },
+        {
+          "pregunta": "¿Qué organismo supervisa el cumplimiento de los Derechos Humanos?",
+          "opciones": [
+            "A) La Corte Penal Internacional",
+            "B) El Consejo de Derechos Humanos de la ONU",
+            "C) La Organización Mundial de la Salud"
+          ],
+          "respuesta_correcta": "B) El Consejo de Derechos Humanos de la ONU"
+        }
+      ]
+    },
+    {
+      "tema": "10",
+      "titulo": "Derecho Laboral",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es la jornada laboral máxima según la legislación laboral española?",
+          "opciones": [
+            "A) 35 horas semanales",
+            "B) 40 horas semanales",
+            "C) 45 horas semanales"
+          ],
+          "respuesta_correcta": "B) 40 horas semanales"
+        },
+        {
+          "pregunta": "¿Qué principio protege el Derecho Laboral?",
+          "opciones": [
+            "A) La productividad",
+            "B) La igualdad salarial",
+            "C) El despido libre"
+          ],
+          "respuesta_correcta": "B) La igualdad salarial"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967522182939",
+    "project_id": "oposiciones-65a05",
+    "storage_bucket": "oposiciones-65a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967522182939:android:87aacae37aeddac3a255be",
+        "android_client_info": {
+          "package_name": "com.example.appoposiciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABUoP-xHlwI8z-b8F_bEtSf-0rHq1nCWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
